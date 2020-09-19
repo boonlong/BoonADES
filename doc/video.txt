@@ -1,2 +1,10 @@
+code github
+https://github.com/boonlong/BoonADES.git
+
 AES
 https://www.youtube.com/watch?v=gP4PqVGudtg
+https://www.youtube.com/watch?v=X8whYEWoDSI
+
+DES
+https://www.youtube.com/watch?v=-1xgf1TGpcI
+
